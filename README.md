@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kiemster
+- 👀 I’m interested in building new projects and learning
+- 🌱 I’m currently learning about ganache and other types of code
+- 💞️ I’m looking to collaborate on blockchain development, etc
+- 📫 How to reach me: @Kiemsternl on IG, Kiemstr on Twitter, 
